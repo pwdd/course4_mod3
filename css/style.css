@@ -1,0 +1,42 @@
+/* NAVBAR */
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-default {
+  border-radius: 0;
+  background-color: #ccc;
+  border: 0;
+}
+
+.navbar-default .navbar-brand {
+  color: #0d0d0d;
+}
+
+.navbar-brand h1 {
+  margin: 0;
+  font-size: 1.3em;
+}
+
+/* MAIN */
+
+.inner-col {
+  background-color: #ccc;
+  padding: 10px;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+.inner-col h3 {
+  text-align: center;
+}
+
+.back a {
+  color: #404040;
+  font-size: 1.2em;
+}
+
+.back a:hover {
+  text-decoration: none;
+  color: #0d0d0d;
+}
